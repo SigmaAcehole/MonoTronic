@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\MonoTronic.mcpav
+Project1=MyProject.mcpav
+[ActiveProject]
+Index=1
